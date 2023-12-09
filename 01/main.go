@@ -7,6 +7,13 @@ import (
 	"strconv"
 )
 
+// Input answers in case I decide to perform a much needed refactor
+//  for practice later:
+//   Part 1 Answer::
+//   55816
+//   Part 2 Answer::
+//   54980
+
 // Simple start. The challenge is to read each line, find
 // the first and last number in each line, and concatenate
 // them to create a two digit number. The puzzle answer is
